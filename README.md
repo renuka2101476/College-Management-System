@@ -1,4 +1,5 @@
 🎓 College Management System
+
 📌 About the Project - The College Management System is a software application developed to manage day-to-day college activities.This project is created to reduce manual work in colleges and improve data management efficiency.
     It helps in handling student details, faculty information, courses, and administrative work in an easy and organized way.
     This project was developed collaboratively with a project partner. Both team members contributed to design, development, and testing of the system.
